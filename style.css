@@ -34,9 +34,7 @@ header {
   padding-bottom: 10px;
   border-bottom: 1px solid black;
 }
-.fundoFoto {
-  background-color: #fdfd81c4;
-}
+
 button {
   background-color: black;
   color: white;
@@ -45,11 +43,16 @@ button {
   padding: 10px 5px;
   margin: auto;
   margin-top: 20px;
+  font-weight: 700;
 }
 
 button:hover {
   background-color: white;
   color: black;
+}
+
+.fundoFoto {
+  background-color: #fdfd81c4;
 }
 
 .containerFotos {
