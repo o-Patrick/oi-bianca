@@ -65,6 +65,10 @@ button:hover {
   }
 }
 
+#cta {
+  padding-top: 50vh;
+}
+
 footer {
   background-color: black;
   color: white;
